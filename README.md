@@ -25,14 +25,25 @@ analog or digital.
 # Components used
 
 1 Arduino UNO
+
 2 Ultrasonic Sensor
+
 3. Servo Motor
+
 4. Electric Bulb
+
 5. Buzzer
+
 6. PIR Motion Sensor
+
 7. Light Dependent Resistor
+
 8. Realy
+
 9. Fire Sensor
+
+
+
 The code and the circuit is present in the PDF 
 
 # For more Enquires 
