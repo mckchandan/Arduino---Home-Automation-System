@@ -24,9 +24,9 @@ analog or digital.
 
 # Components used
 
-1 Arduino UNO
+1. Arduino UNO
 
-2 Ultrasonic Sensor
+2. Ultrasonic Sensor
 
 3. Servo Motor
 
